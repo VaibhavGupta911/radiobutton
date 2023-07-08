@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/radiobutton/static/css/main.18fa3cf9.css",
+    "main.js": "/radiobutton/static/js/main.b186789c.js",
+    "static/js/787.b9f50c0b.chunk.js": "/radiobutton/static/js/787.b9f50c0b.chunk.js",
+    "index.html": "/radiobutton/index.html",
+    "main.18fa3cf9.css.map": "/radiobutton/static/css/main.18fa3cf9.css.map",
+    "main.b186789c.js.map": "/radiobutton/static/js/main.b186789c.js.map",
+    "787.b9f50c0b.chunk.js.map": "/radiobutton/static/js/787.b9f50c0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18fa3cf9.css",
+    "static/js/main.b186789c.js"
+  ]
+}
